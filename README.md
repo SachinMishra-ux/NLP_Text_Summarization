@@ -10,7 +10,7 @@ conda create -n summary python=3.8 -y
 
 ``` python main.py```
 
-## Workflows
+## Workflows for each stage
 
 1. Update config.yaml
 2. Update params.yaml
